@@ -1,0 +1,4 @@
+return {
+	NPC_COLLISION_GROUP_ID = "NPC",
+	PLAYER_COLLISION_GROUP_ID = "Player",
+}

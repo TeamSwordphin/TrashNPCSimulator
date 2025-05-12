@@ -1,0 +1,22 @@
+[package]
+name = "teamswordphin/trashnpcsimulator"
+description = "Trash NPC Simulator"
+version = "1.0.0"
+authors = ["TeamSwordphin"]
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+private = true
+
+[dependencies]
+Input = "sleitnick/input@2.3.0"
+Shake = "sleitnick/shake@0.1.7"
+Freeze = "duckarmor/freeze@0.1.4"
+Spring = "brittonfischer/spring@0.1.0"
+Loader = "sleitnick/loader@2.0.0"
+ProfileService = "howmanysmall/typed-profile-service@1.0.6"
+LemonSignal = "data-oriented-house/lemonsignal@1.10.0"
+Comm = "sleitnick/comm@1.0.1"
+Janitor = "howmanysmall/janitor@1.17.0"
+LootPlan = "colbert2677/lootplan@1.0.0"
+FlashCast = "synpixel/flashcast@3.0.3"
+shapecasthitbox = "teamswordphin/shapecasthitbox@0.1.7"

@@ -26,7 +26,8 @@ return {
 	TotalLifetimeMoneyEarned = 0,
 
 	Settings = {
-		Volume = 100,
+		Music = 100,
+		SoundFX = 100,
 	},
 
 	CurrentQuestId = 0,

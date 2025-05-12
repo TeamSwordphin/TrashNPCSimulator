@@ -1,3 +1,4 @@
 return {
-	Volume = 100,
+	Music = 100,
+	SoundFX = 100,
 }
